@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "里昂照片.jpg"
   name             : "Chen ZHAO (赵辰)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate at HKUST "
   location         : "Clear Water Bay, Hong Kong SAR"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "czhaobk@connect.ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

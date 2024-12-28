@@ -24,8 +24,8 @@ I am always open to potential collaborations, please feel free to contact me at 
 Education
 ------
 - **Ph.D.**, The Hong Kong University of Science and Technology, 2022 - Present
-- **M.S.**, Zhejiang University, 2019
-- **B.S.**, China University of Geosciences, 2015
+- **M.S.**, Zhejiang University, 2022
+- **B.S.**, China University of Geosciences, 2019
 
 Visiting Experience
 ------

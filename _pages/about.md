@@ -54,8 +54,13 @@ Seminar
 - **Princeton University**, Geosciences Department, 2024
 - **The HKUST**, Department of ocean science, 2024
 
+
+
 *“Live simply, love generously, care deeply, speak kindly, leave the rest to God.”  
 ― Ronald Reagan*
+
+*“If the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery.”
+― Enrico Fermi*
 
 
 

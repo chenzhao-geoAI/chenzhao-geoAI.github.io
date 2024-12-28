@@ -23,9 +23,17 @@ I am always open to potential collaborations, please feel free to contact me at 
 
 Education
 ------
-- **Ph.D.**, The Hong Kong University of Science and Technology, *2022 - Present*
-- **M.S.**, Zhejiang University, *2019*
-- **B.S.**, China University of Geosciences, *2015*
+- **Ph.D.**, The Hong Kong University of Science and Technology, 2022 - Present
+- **M.S.**, Zhejiang University, 2019
+- **B.S.**, China University of Geosciences, 2015
+
+Visiting Experience
+------
+- **Helmholtz Centre for Environmental Research**, 2024
+- **Southern University of Science and Technology**, 2024
+- **Moscow State University**, 2019
+- **Washington University in St. Louis**, 2018
+- **The University of Sydney**, 2018
 
 Selected Honors, Membership, and Services
 ------
@@ -35,7 +43,7 @@ Selected Honors, Membership, and Services
 - **HKUST RedBird PhD Award**, HKUST, 2022 - 2024  
 - **Research Travel Grant**, HKUST, 2023 - 2024  
 - **Outstanding Graduates of Zhejiang University**, Zhejiang University, 2022
-- **Outstanding student**, Zhejiang University， 2021
+- **Outstanding student**, Zhejiang University，2021
 - **The School's Top Ten Outstanding Students**, China University of Geosciences, 2018  
 - **Journal Reviewer**: *Environmental Science and Technology*, since 2023
 - **Membership**: American Geophysical Union, European Association of Geochemistry

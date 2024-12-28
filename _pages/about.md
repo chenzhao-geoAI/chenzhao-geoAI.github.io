@@ -54,6 +54,9 @@ Seminar
 - **Princeton University**, Geosciences Department, 2024
 - **The HKUST**, Department of ocean science, 2024
 
+*“Live simply, love generously, care deeply, speak kindly, leave the rest to God.”  
+― Ronald Reagan*
+
 
 
 

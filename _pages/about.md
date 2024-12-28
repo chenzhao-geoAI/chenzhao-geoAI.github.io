@@ -22,13 +22,13 @@ Prior to this, I got a master's degree at Zhejiang University in 2022, supervise
 I am always open to potential collaborations, please feel free to contact me at czhaobk@connect.ust.hk :)
 
 Education
-======
+------
 - **Ph.D.**, The Hong Kong University of Science and Technology, *2022 - Present*
 - **M.S.**, Zhejiang University, *2019*
 - **B.S.**, China University of Geosciences, *2015*
 
 Selected Honors, Membership, and Services
-======
+------
 - **Hong Kong PhD Fellowship**, University Grants Committee of Hong Kong, 2022 - 2026  
 - **Zhejiang Province Outstanding Master's Thesis**, Zhejiang Provincial Department of Education, 2023  
 - **Conference Travel Allowance of HKPFS**, HKUST, 2023 - 2024  
@@ -41,7 +41,7 @@ Selected Honors, Membership, and Services
 - **President of Student Union**: School of Earth Science at China University of Sciences, 2017-2018
 
 Seminar
-======
+------
 - **Princeton University**, Geosciences Department, 2024
 - **The HKUST**, Department of ocean science, 2024
 

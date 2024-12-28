@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Chen ZHAO (赵辰), currently a third-year Ph.D. candidate at the [DREAM]([https://hkustdinghe.github.io]) group at the [The Hong Kong University of Science and Technology]([hkust.edu.hk]) (2022-Present), supervised by Prof. Ding HE (何丁). My study is honored supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html). During my Ph.D. study, I was a visiting student at Helmholtz Center for Environmental Research in Germany working with [Dr. Oliver Lechtenfeld](https://www.ufz.de/index.php?en=43841), and in the [OMGroup](https://faculty.sustech.edu.cn/?tagid=wangjj&iscss=1&snapid=1&orderby=date&go=2) at Souththern University of Science and Technology working with Prof. Junjian Wang. 
+Welcome! I'm Chen ZHAO (赵辰), currently a third-year Ph.D. candidate at the [DREAM]([https://hkustdinghe.github.io]) group at the [The Hong Kong University of Science and Technology]([hkust.edu.hk]) (2022-Present), supervised by Prof. Ding HE (何丁). My study is honored supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html). During my Ph.D. study, I was a visiting student at the Helmholtz Center for Environmental Research in Germany, working with [Dr. Oliver Lechtenfeld](https://www.ufz.de/index.php?en=43841), and in the [OMGroup](https://faculty.sustech.edu.cn/?tagid=wangjj&iscss=1&snapid=1&orderby=date&go=2) at Southern University of Science and Technology working with Prof. Junjian Wang. 
 
 Prior to this, I got a master's degree at Zhejiang University in 2022, supervised by Prof. Ding HE and Prof. Yongge SUN. I enjoyed my fabulous years at China University of Geosciences and Washington University in St.Louis and obtained a B.S. in Geology in 2019, supervised by Prof. Yuanbao WU and [Prof. Kun Wang](https://eeps.wustl.edu/people/kun-wang).
 
 
-
-A data-driven personal website
+Research Interets
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+· Elucidating the carbon cycling in estuarine systems and its impacts on climate change
+· Developing new data science toolbox to address molecular geochemistry issues
+
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 

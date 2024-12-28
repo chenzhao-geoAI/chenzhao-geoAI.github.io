@@ -12,10 +12,12 @@ Welcome! I'm Chen Zhao (赵辰), currently a third-year Ph.D. candidate at the [
 Prior to this, I got a master's degree at Zhejiang University in 2022, supervised by Prof. Ding HE and Prof. Yongge SUN. I enjoyed my fabulous years at China University of Geosciences and Washington University in St. Louis and obtained a B.S. in Geology in 2019, supervised by Prof. Yuanbao Wu and [Prof. Kun Wang](https://eeps.wustl.edu/people/kun-wang).
 
 <p style="margin-bottom: 20px; line-height: 1.6;">
-My research interests include the areas of **Chemical Oceanography** and **Machine Learning**, with focus on:  
-&bull;  Elucidating the carbon cycling in estuarine systems and its impacts on climate change    
-&bull;  Developing new data science toolbox to address molecular geochemistry issues    
+  My research interests include the areas of <strong>Chemical Oceanography</strong> and <strong>Machine Learning</strong>, with focus on:
 </p>
+<ul style="line-height: 1.6; margin-bottom: 20px;">
+  <li>Elucidating the carbon cycling in estuarine systems and its impacts on climate change</li>
+  <li>Developing new data science toolbox to address molecular geochemistry issues</li>
+</ul>
 
 I am always open to potential collaborations, please feel free to contact me at czhaobk@connect.ust.hk :)
 

@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I'm Chen Zhao (赵辰), currently a third-year Ph.D. candidate at the [DREAM]([https://hkustdinghe.github.io]) group at the [The Hong Kong University of Science and Technology]([hkust.edu.hk]) (2022-Present), supervised by Prof. Ding He (何丁). My study is honored supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html). During my Ph.D. study, I was a visiting student at the Helmholtz Center for Environmental Research in Germany, working with [Dr. Oliver Lechtenfeld](https://www.ufz.de/index.php?en=43841), and in the [OMGroup](https://faculty.sustech.edu.cn/?tagid=wangjj&iscss=1&snapid=1&orderby=date&go=2) at Southern University of Science and Technology working with Prof. Junjian Wang. 
 
-Prior to this, I got a master's degree at Zhejiang University in 2022, supervised by Prof. Ding HE and Prof. Yongge SUN. I enjoyed my fabulous years at China University of Geosciences and Washington University in St.Louis and obtained a B.S. in Geology in 2019, supervised by Prof. Yuanbao Wu and [Prof. Kun Wang](https://eeps.wustl.edu/people/kun-wang).
+Prior to this, I got a master's degree at Zhejiang University in 2022, supervised by Prof. Ding HE and Prof. Yongge SUN. I enjoyed my fabulous years at China University of Geosciences and Washington University in St. Louis and obtained a B.S. in Geology in 2019, supervised by Prof. Yuanbao Wu and [Prof. Kun Wang](https://eeps.wustl.edu/people/kun-wang).
 
 My research interests include the areas of **Chemical Oceanography** and **Machine Learning**, with focus on:
 &bull; Elucidating the carbon cycling in estuarine systems and its impacts on climate change  

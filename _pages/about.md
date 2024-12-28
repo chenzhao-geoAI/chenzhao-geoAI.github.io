@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Chen ZHAO (赵辰), currently a third-year Ph.D. candidate at the [DREAM]([https://hkustdinghe.github.io]) group at the [The Hong Kong University of Science and Technology]([hkust.edu.hk]) (2022-Present), supervised by Prof. Ding HE (何丁). My study is honored supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html). During my Ph.D. study, I was a visiting student at the Helmholtz Center for Environmental Research in Germany, working with [Dr. Oliver Lechtenfeld](https://www.ufz.de/index.php?en=43841), and in the [OMGroup](https://faculty.sustech.edu.cn/?tagid=wangjj&iscss=1&snapid=1&orderby=date&go=2) at Southern University of Science and Technology working with Prof. Junjian Wang. 
+Welcome! I'm Chen Zhao (赵辰), currently a third-year Ph.D. candidate at the [DREAM]([https://hkustdinghe.github.io]) group at the [The Hong Kong University of Science and Technology]([hkust.edu.hk]) (2022-Present), supervised by Prof. Ding He (何丁). My study is honored supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html). During my Ph.D. study, I was a visiting student at the Helmholtz Center for Environmental Research in Germany, working with [Dr. Oliver Lechtenfeld](https://www.ufz.de/index.php?en=43841), and in the [OMGroup](https://faculty.sustech.edu.cn/?tagid=wangjj&iscss=1&snapid=1&orderby=date&go=2) at Southern University of Science and Technology working with Prof. Junjian Wang. 
 
-Prior to this, I got a master's degree at Zhejiang University in 2022, supervised by Prof. Ding HE and Prof. Yongge SUN. I enjoyed my fabulous years at China University of Geosciences and Washington University in St.Louis and obtained a B.S. in Geology in 2019, supervised by Prof. Yuanbao WU and [Prof. Kun Wang](https://eeps.wustl.edu/people/kun-wang).
+Prior to this, I got a master's degree at Zhejiang University in 2022, supervised by Prof. Ding HE and Prof. Yongge SUN. I enjoyed my fabulous years at China University of Geosciences and Washington University in St.Louis and obtained a B.S. in Geology in 2019, supervised by Prof. Yuanbao Wu and [Prof. Kun Wang](https://eeps.wustl.edu/people/kun-wang).
 
-
-Research Interets
-======
+My research interests include the areas of **Chemical Oceanography** and **Machine Learning**, with focus on:
 &bull; Elucidating the carbon cycling in estuarine systems and its impacts on climate change  
 &bull; Developing new data science toolbox to address molecular geochemistry issues  
 
+I am always open to potential collaborations, please feel free to contact me at czhaobk@connect.ust.hk :)
 
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Education
+======
+&bull; Ph.D. Marine Environmental Science, The Hong Kong University of Science and Technology, 2022 - Present 
+&bull; M.S. Geochemistry, Zhejiang University, 2019
+&bull; M.S. Geology, China University of Geosciences, 2019
 
 Getting started
 ======

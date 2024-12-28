@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 ## Journal Articles
 - **Li, J., Zhang, Q.**, *"Machine Learning for Environmental Monitoring"*, **Environmental Science & Technology**, 55(2), 1234-1245, 2023. [DOI](https://doi.org/10.xxxx)  
 - **Wang, H., Smith, A.**, *"Advanced Modeling Techniques in Climate Science"*, **Journal of Climate Dynamics**, 12(5), 678-690, 2022. [DOI](https://doi.org/10.xxxx)  
@@ -21,6 +19,3 @@ author_profile: true
 
 ---
 
-## Notes
-You can also find more of my publications on [my Google Scholar profile](https://scholar.google.com/...).  
-Feel free to contact me for collaborations or further information about my research.

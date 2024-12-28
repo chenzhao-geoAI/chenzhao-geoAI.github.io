@@ -23,9 +23,11 @@ I am always open to potential collaborations, please feel free to contact me at 
 
 Education
 ======
-&bull;  Ph.D., The Hong Kong University of Science and Technology, 2022 - Present   
-&bull;  M.S, Geochemistry, Zhejiang University, 2019  
-&bull;  B.S, Geology, China University of Geosciences, 2015  
+<ul style="line-height: 1.6; margin-bottom: 20px;">
+  <li><strong>Ph.D.</strong>, The Hong Kong University of Science and Technology, <em>2022 - Present</em></li>
+  <li><strong>M.S.</strong>, Zhejiang University, <em>2019</em></li>
+  <li><strong>B.S.</strong>, China University of Geosciences, <em>2015</em></li>
+</ul>
 
 Getting started
 ======

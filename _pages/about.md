@@ -23,11 +23,9 @@ I am always open to potential collaborations, please feel free to contact me at 
 
 Education
 ======
-<ul style="line-height: 1.6; margin-bottom: 20px;">
-  <li><strong>Ph.D.</strong>, The Hong Kong University of Science and Technology, <em>2022 - Present</em></li>
-  <li><strong>M.S.</strong>, Zhejiang University, <em>2019</em></li>
-  <li><strong>B.S.</strong>, China University of Geosciences, <em>2015</em></li>
-</ul>
+- **Ph.D.**, The Hong Kong University of Science and Technology, *2022 - Present*
+- **M.S.**, Zhejiang University, *2019*
+- **B.S.**, China University of Geosciences, *2015*
 
 Selected Honors, Membership, and Services
 ======
@@ -38,13 +36,14 @@ Selected Honors, Membership, and Services
 - **Research Travel Grant**, HKUST, 2023 - 2024  
 - **Outstanding Graduates of Zhejiang University**, Zhejiang University, 2022  
 - **The School's Top Ten Outstanding Students**, China University of Geosciences, 2018  
-- **Journal Reviewer**: *Environmental Science and Technology* (since 2023)  
-- **President of Student Union**: School of Earth Science at CUG, 2017-2018
+- **Journal Reviewer**: *Environmental Science and Technology*, since 2023
+- **Membership**: American Geophysical Union, European Association of Geochemistry, 
+- **President of Student Union**: School of Earth Science at China University of Sciences, 2017-2018
 
 Seminar
 ======
-- **Princeton University**, 2024
-- **The HKUST**, 2024
+- **Princeton University**, Geosciences Department, 2024
+- **The HKUST**, Department of ocean science, 2024
 
 
 

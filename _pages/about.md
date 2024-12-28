@@ -29,11 +29,11 @@ Education
 
 Visiting Experience
 ------
-- **Helmholtz Centre for Environmental Research**, 2024
-- **Southern University of Science and Technology**, 2024
-- **Moscow State University**, 2019
-- **Washington University in St. Louis**, 2018
-- **The University of Sydney**, 2018
+- **Helmholtz Centre for Environmental Research**, Germany, 2024
+- **Southern University of Science and Technology**, China, 2024
+- **Moscow State University**, Russia, 2019
+- **Washington University in St. Louis**, USA, 2018
+- **The University of Sydney**, Australia, 2017
 
 Selected Honors, Membership, and Services
 ------

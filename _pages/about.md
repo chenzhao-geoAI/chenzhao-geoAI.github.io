@@ -43,7 +43,7 @@ Selected Honors, Membership, and Services
 - **HKUST RedBird PhD Award**, HKUST, 2022 - 2024  
 - **Research Travel Grant**, HKUST, 2023 - 2024  
 - **Outstanding Graduates of Zhejiang University**, Zhejiang University, 2022
-- **Outstanding student**, Zhejiang University，2021
+- **Outstanding student**, Zhejiang University, 2021
 - **The School's Top Ten Outstanding Students**, China University of Geosciences, 2018  
 - **Journal Reviewer**: *Environmental Science and Technology*, since 2023
 - **Membership**: American Geophysical Union, European Association of Geochemistry

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer-reviewed journal articles
-- (14) **Zhao, C.**, Tian, Z., Zhang, Q., Wang, Y., Zhang, P., Sun, G., Yang, Y., He., D., Tu, S., Wang, J. (2024). Unraveling the distribution of black carbon in Chinese forest soils using machine learning approaches. Geophysical Research Letters, 51， e2024GL110618, [DOI](https://doi.org/10.xxxx)
+- (14) **Zhao, C.**, Tian, Z., Zhang, Q., Wang, Y., Zhang, P., Sun, G., Yang, Y., He., D., Tu, S., Wang, J. (2024). Unraveling the distribution of black carbon in Chinese forest soils using machine learning approaches. Geophysical Research Letters, 51，e2024GL110618. [DOI](https://doi.org/10.xxxx)
 - (13) **Zhao, C**., Wang, K., Jiao, Q., Xu, X., Yi, Y., Li, P., Merder, J., He., D. (2024). Machine learning models for evaluating biological reactivity within molecular fingerprints of dissolved organic matter over time. Geophysical Research Letters, 51, e2024GL108794. [DOI](https://doi.org/10.xxxx)
 - (12) Zhang, Z. X., **Zhao, C.**, Chen, Z. L., Zhang, Z., Yi, Y., Li, P., He, D. (2024). Optical signatures as a diagnostic tool for tracking dynamics of sedimentary dissolved organic nitrogen, phosphorus, and sulfur in an anthropogenic bay. Chemical Geology, 122508.
 - (11) **Zhao, C**., Xu, X., Chen, H., Wang, F., Li, P., He, C., Shi, Q., Yi, Y., Li, X., Li, S., He., D. (2023). Exploring the complexities of dissolved organic matter photochemistry from the molecular level by using machine learning approaches. Environmental Science & Technology, 57(46), 17889-17899. [DOI](https://doi.org/10.xxxx)
@@ -22,12 +22,18 @@ author_profile: true
 - (1) Bloom, H., Lodders, K., Chen, H., **Zhao C.**, Tian Z., Koefoed P., Pető, M. K., Jiang Y, Fegley B. Jr., and Wang K. (2020) Potassium isotope compositions of carbonaceous and ordinary chondrites: implications on the origin of volatile depletion in the early solar system. Geochimica et Cosmochimica Acta, 277, 111-131.
 
 ## Conference Papers
-- **Wang, H., Smith, A.**, *"AI Applications in Geosciences"*, **International Conference on AI in Earth Science**, Paris, 2022.  
-- **Zhang, M., Lee, C.**, *"Renewable Energy Optimization Using Machine Learning"*, **Global Energy Conference**, Tokyo, 2021.  
+- (9) **Zhao, C.**, He., D. (2024) Unraveling the Isomeric Diversity of Dissolved Organic Matter in Marine Environments. AGU fall meeting 2024, Poster (Washington, D. C., USA), Abstract#: 1534094.
+- (8) **Zhao, C.**, Wang, K., Jiao, Q., Xu, X., Yi, Y., Li, P., Merder, J., He., D. (2024) Machine Learning Models for Evaluating Biological Reactivity in Dissolved Organic Matter over time: A case study in the Three Gorges Reservoir, China. Goldschmidt 2024, Oral presentation (Chicago, USA), Abstract#: 24121.
+- (7) **Zhao, C.**, Hou, Y., Wang, Y., Li, P., He, C., Shi, Q., Yi, Y., He., D. (2023). Unraveling the photochemical reactivity of dissolved organic matter in the Yangtze River Estuary: Integrating incubations with field observations. 9th Bio-organichemistry (BOGC) Seminar, Poster (Shenzhen, China). (<span style="color:red;">Best Poster Award</span>)
+- (6) **Zhao, C.**, Xu, X., Chen, H., Wang, F., Li, P., He, C., Shi, Q., Yi, Y., Li, X., Li, S., He., D. (2023). Improved understanding of photochemical processing of dissolved organic matter by using machine learning approaches. Goldschmidt 2023, Oral presentation (Lyon, France), Absrtact#: 15974.
+- (5) **Zhao, C.**, Xu, X., Chen, H., Wang, F., Li, P., He, C., Shi, Q., Yi, Y., Li, X., Li, S., He., D. (2023). Improved understanding of photochemical processing of dissolved organic matter by using machine learning approaches. The sixth Xiamen Symposium on Marine Environmental Sciences, Poster (Xiamen, China). (<span style="color:red;">Best Poster Award</span>)
+- (4) **Zhao, C.**, Zhou, Y., Wang, Y., Huang, W., He, C., Shi, Q., He, D. (2021). Seasonal variations in dissolved organic matter chemistry in a eutrophic, semi-enclosed bay in Southeastern China: Implications for carbon cycling. The 6th Conference on Earth System Science, Oral presentation (Shanghai, China), Abstract#: S27-O-11.
+- (3) **Zhao, C.**, Zhou, Y., Pang, Y., Zhang, Y., Huang, W., Wang Y., He, D. (2020). The optical and molecular signatures of DOM under the eutrophication status in Xiangshan Bay. 7th Bio-organichemistry (BOGC) Seminar, Oral presentation (Beijing, China).
+- (2) **Zhao, C.**, Bloom, H., Chen, H., Tian, Z., Koefoed, P., Lodders, K., and Wang, K. (2019) Potassium isotopic compositions of enstatite chondrites and aubrites. 50th Lunar and Planetary Science Conference (The Woodlands, TX), Abstract#: 2689.
+- (1) Wang, K., Koefoed, P., Tian, Z., Bloom H., **Zhao C.**, Chen H. (2019) Potassium isotopic constraints on vaporization and volatile element evolution during planet formation. 29th Goldschmidt Conference (Barcelona, Spain), Absracts#: 3582
+  
 
-## Other Publications
-- **Zhang, K.**, *"A Guide to Geoscience Research"*, **Zhejiang University Press**, 2021.  
-- **Li, J.**, *"Emerging Trends in Environmental Data Analysis"*, **Springer Nature**, 2020.  
+
 
 ---
 

@@ -34,7 +34,7 @@ author_profile: true
 
 ## Media Coverages
 [浙江象山港溶解有机碳库的特征及其环境指示意义--中国科学杂志社](https://mp.weixin.qq.com/s/AKF1FPenZmveSmUNv6V27A)
-[Eurekalert!](https://www.eurekalert.org/news-releases/619386)
+[Eurekalert! - AAAS](https://www.eurekalert.org/news-releases/619386)
 
   
 

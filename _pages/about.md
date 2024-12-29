@@ -21,6 +21,8 @@ Prior to this, I got a master's degree at Zhejiang University in 2022, supervise
 
 I am always open to potential collaborations, please feel free to contact me at czhaobk@connect.ust.hk :)
 
+BTW, My Myers-Briggs Type Indicator (MBTI) is ESTJ, which basically stands for "Efficiently Stuck To the Job." Yep, workaholic!
+
 Education
 ------
 - **Ph.D.**, The Hong Kong University of Science and Technology, 2022 - Present

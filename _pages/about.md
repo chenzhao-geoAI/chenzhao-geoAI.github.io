@@ -38,13 +38,13 @@ Visiting Experience
 Selected Honors, Membership, and Services
 ------
 - **Hong Kong PhD Fellowship**, University Grants Committee of Hong Kong, 2022 - 2026  
-- **Zhejiang Province Outstanding Master's Thesis** (top 1% level), Zhejiang Provincial Department of Education, 2023  
+- **Zhejiang Province Outstanding Master's Thesis** (Top 1%), Zhejiang Provincial Department of Education, 2023  
 - **Conference Travel Allowance of HKPFS**, HKUST, 2023 - 2024  
 - **HKUST RedBird PhD Award**, HKUST, 2022 - 2023  
 - **Research Travel Grant**, HKUST, 2023 - 2024  
 - **Outstanding Graduates of Zhejiang University**, Zhejiang University, 2022
 - **Outstanding student**, Zhejiang University, 2021
-- **Top Ten Outstanding Students of China University of Geosciences** (top 1% level), 2018  
+- **Top Ten Outstanding Students of China University of Geosciences** (Top 1%), 2018  
 - **Journal Reviewer**: *Environmental Science and Technology*, since 2023
 - **Membership**: American Geophysical Union, European Association of Geochemistry
 - **President of Student Union**: School of Earth Science at China University of Sciences, 2017-2018

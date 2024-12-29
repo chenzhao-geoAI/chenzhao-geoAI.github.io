@@ -40,7 +40,7 @@ Selected Honors, Membership, and Services
 - **Hong Kong PhD Fellowship**, University Grants Committee of Hong Kong, 2022 - 2026  
 - **Zhejiang Province Outstanding Master's Thesis**, Zhejiang Provincial Department of Education, 2023  
 - **Conference Travel Allowance of HKPFS**, HKUST, 2023 - 2024  
-- **HKUST RedBird PhD Award**, HKUST, 2022 - 2024  
+- **HKUST RedBird PhD Award**, HKUST, 2022 - 2023  
 - **Research Travel Grant**, HKUST, 2023 - 2024  
 - **Outstanding Graduates of Zhejiang University**, Zhejiang University, 2022
 - **Outstanding student**, Zhejiang University, 2021

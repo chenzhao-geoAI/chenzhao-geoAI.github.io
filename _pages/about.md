@@ -44,7 +44,7 @@ Selected Honors, Membership, and Services
 - **Research Travel Grant**, HKUST, 2023 - 2024  
 - **Outstanding Graduates of Zhejiang University**, Zhejiang University, 2022
 - **Outstanding student**, Zhejiang University, 2021
-- **The School's Top Ten Outstanding Students**, China University of Geosciences, 2018  
+- **Top Ten Outstanding Students of China University of Geosciences**, 2018  
 - **Journal Reviewer**: *Environmental Science and Technology*, since 2023
 - **Membership**: American Geophysical Union, European Association of Geochemistry
 - **President of Student Union**: School of Earth Science at China University of Sciences, 2017-2018

@@ -16,11 +16,12 @@ Dissolved organic matter (DOM) sustains a substantial part of the organic matter
 
  ![photochemistry](../images/photo.png)
 
-  **Big-data and machine learning assisted biogeochemistry**
+
+
+**Big-data and machine learning assisted biogeochemistry**
  
 - **Predicting environmental behaviors of organic molecules**
 The inconsistency of the fate of irradiated molecules among different experiments curtailed our understanding of the roles the photochemical reactions have played, which cannot be properly addressed by traditional approachesWe offer an expandable and renewable approach based on ML to compatibly integrate existing irradiation experiments and shed insight into DOM transformation and degradation processes. (Zhao et al., 2023, EST)
-
  ![photochemistry_learning](../images/photo_learning.png)
 
 - **Machine learning-aided application of advanced analytical techniques**  

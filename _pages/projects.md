@@ -8,4 +8,4 @@ author_profile: true
  
 - Carbon cycling in coastal bays
 Decreased nutrients likely activate microbial carbon pump in coastal bays.
- ![Coastal bays](../images/bays.jpg)
+ ![Coastal bays](../images/bays.png)

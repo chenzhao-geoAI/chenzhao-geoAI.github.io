@@ -33,7 +33,7 @@ author_profile: true
 - (1) Wang, K., Koefoed, P., Tian, Z., Bloom H., **Zhao C.**, Chen H. (2019) Potassium isotopic constraints on vaporization and volatile element evolution during planet formation. 29th Goldschmidt Conference (Barcelona, Spain), Absracts#: 3582
 
 ## Media Coverages
-[浙江象山港溶解有机碳库的特征及其环境指示意义--中国科学杂志社](https://mp.weixin.qq.com/s/AKF1FPenZmveSmUNv6V27A)
+[浙江象山港溶解有机碳库的特征及其环境指示意义--中国科学杂志社](https://mp.weixin.qq.com/s/AKF1FPenZmveSmUNv6V27A)  
 [Eurekalert! - AAAS](https://www.eurekalert.org/news-releases/619386)
 
   

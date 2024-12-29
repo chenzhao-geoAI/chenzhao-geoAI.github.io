@@ -31,6 +31,10 @@ author_profile: true
 - (3) **Zhao, C.**, Zhou, Y., Pang, Y., Zhang, Y., Huang, W., Wang Y., He, D. (2020). The optical and molecular signatures of DOM under the eutrophication status in Xiangshan Bay. 7th Bio-organichemistry (BOGC) Seminar, Oral presentation (Beijing, China).
 - (2) **Zhao, C.**, Bloom, H., Chen, H., Tian, Z., Koefoed, P., Lodders, K., and Wang, K. (2019) Potassium isotopic compositions of enstatite chondrites and aubrites. 50th Lunar and Planetary Science Conference (The Woodlands, TX), Abstract#: 2689.
 - (1) Wang, K., Koefoed, P., Tian, Z., Bloom H., **Zhao C.**, Chen H. (2019) Potassium isotopic constraints on vaporization and volatile element evolution during planet formation. 29th Goldschmidt Conference (Barcelona, Spain), Absracts#: 3582
+
+## Media Coverages
+[浙江象山港溶解有机碳库的特征及其环境指示意义--中国科学杂志社](https://mp.weixin.qq.com/s/AKF1FPenZmveSmUNv6V27A)
+
   
 
 

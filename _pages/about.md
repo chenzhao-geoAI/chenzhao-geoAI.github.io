@@ -39,6 +39,7 @@ Visiting Experience
 
 Selected Honors, Membership, and Services
 ------
+- **Postgraduate Research Award (First Place)**, Department of Ocean Science, HKUST, 2025
 - **Hong Kong PhD Fellowship**, University Grants Committee of Hong Kong, 2022 - 2026  
 - **Zhejiang Province Outstanding Master's Thesis** (Top 1%), Zhejiang Provincial Department of Education, 2023  
 - **Conference Travel Allowance of HKPFS**, HKUST, 2023 - 2024  

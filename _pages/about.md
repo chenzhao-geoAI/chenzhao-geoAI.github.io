@@ -39,6 +39,9 @@ Visiting Experience
 
 Selected Honors, Membership, and Services
 ------
+- **Schmidt AI in Science Postdoctoral Fellowship**, Schmidt Sciences, 2026
+- **Elsevier Research Scholarship**, (Two recipients each year worldwide), European Association of Organic Geochemists, 2025
+- **Steven Ying Ph.D. Research Award**, (Two recipients each year at HKUST), Energy Institute, HKUST, 2025
 - **Postgraduate Research Award (First Place)**, Department of Ocean Science, HKUST, 2025
 - **Hong Kong PhD Fellowship**, University Grants Committee of Hong Kong, 2022 - 2026  
 - **Zhejiang Province Outstanding Master's Thesis** (Top 1%), Zhejiang Provincial Department of Education, 2023  

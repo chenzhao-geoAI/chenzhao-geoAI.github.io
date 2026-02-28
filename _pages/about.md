@@ -53,7 +53,6 @@ Selected Honors, Membership, and Services
 - **Top Ten Outstanding Students of China University of Geosciences** (Top 1%), 2018  
 - **Journal Reviewer**: *Environmental Science and Technology*, since 2023
 - **Membership**: American Geophysical Union, European Association of Geochemistry
-- **President of Student Union**: School of Earth Science at China University of Sciences, 2017-2018
 
 Seminar
 ------

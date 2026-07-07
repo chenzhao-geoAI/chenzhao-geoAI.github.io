@@ -7,25 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Chen Zhao (赵辰), currently a third-year Ph.D. candidate at the [DREAM]([https://hkustdinghe.github.io]) group at the [The Hong Kong University of Science and Technology]([hkust.edu.hk]) (2022-Present), supervised by Prof. Ding He (何丁). My study is proudly supported by the prestigeous [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html). During my Ph.D. study, I was a visiting student at the Helmholtz Center for Environmental Research in Germany, working closely with [Dr. Oliver Lechtenfeld](https://www.ufz.de/index.php?en=43841), and in the [OMGroup](https://faculty.sustech.edu.cn/?tagid=wangjj&iscss=1&snapid=1&orderby=date&go=2) at the Southern University of Science and Technology, working closely with Prof. Junjian Wang. 
+Welcome! I'm Chen Zhao (赵辰), just got mt Ph.D. degree at the [DREAM]([https://hkustdinghe.github.io]) group at the [The Hong Kong University of Science and Technology]([hkust.edu.hk]) (2022-2026), supervised by Prof. Ding He (何丁). My study is proudly supported by the prestigeous [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html). During my Ph.D. study, I was a visiting student at the Helmholtz Center for Environmental Research in Germany, working closely with [Dr. Oliver Lechtenfeld](https://www.ufz.de/index.php?en=43841), and in the [OMGroup](https://faculty.sustech.edu.cn/?tagid=wangjj&iscss=1&snapid=1&orderby=date&go=2) at the Southern University of Science and Technology, working closely with Prof. Junjian Wang. 
 
 Prior to this, I got a master's degree at Zhejiang University in 2022, supervised by Prof. Ding He and Prof. Yongge Sun. I enjoyed my fabulous years at China University of Geosciences and Washington University in St. Louis and obtained a B.S. in Geology in 2019, supervised by Prof. Yuanbao Wu and [Prof. Kun Wang](https://eeps.wustl.edu/people/kun-wang).
 
 <p style="margin-bottom: 20px; line-height: 1.6;">
-  My research interests include the areas of <strong>Chemical Oceanography</strong> and <strong>Machine Learning</strong>, with focus on:
+  My research interests include the areas of <strong>Chemical Oceanography</strong> and <strong>Environments and Sustainability </strong>, with focus on:
 </p>
 <ul style="line-height: 1.6; margin-bottom: 20px;">
   <li>Elucidating the carbon cycling in estuarine systems and its impacts on climate change</li>
-  <li>Developing new data science toolbox to address molecular geochemistry issues</li>
+  <li>Applying data science toolbox to address environmental and water quality issues</li>
 </ul>
 
 I am always open to potential collaborations, please feel free to contact me at czhaobk@connect.ust.hk :)
 
-BTW, My Myers-Briggs Type Indicator (MBTI) is ESTJ, which basically stands for "Efficiently Stuck To the Job." Yep, workaholic!
+<!-- BTW, My Myers-Briggs Type Indicator (MBTI) is ESTJ, which basically stands for "Efficiently Stuck To the Job." Yep, workaholic! -->
 
 Education
 ------
-- **Ph.D.**, The Hong Kong University of Science and Technology, 2022 - Present
+- **Ph.D.**, The Hong Kong University of Science and Technology, 2022 - 2026
 - **M.S.**, Zhejiang University, 2022
 - **B.S.**, China University of Geosciences, 2019
 
@@ -40,6 +40,7 @@ Education
 Selected Honors, Membership, and Services
 ------
 - **Schmidt AI in Science Postdoctoral Fellowship**, Schmidt Sciences, 2026
+- **Lo Family Postgraduate Scholarship**, HKUST, 2026
 - **Elsevier Research Scholarship**, (Two recipients each year worldwide), European Association of Organic Geochemists, 2025
 - **Steven Ying Ph.D. Research Award**, (Two recipients each year at HKUST), Energy Institute, HKUST, 2025
 - **Postgraduate Research Award (First Place)**, Department of Ocean Science, HKUST, 2025

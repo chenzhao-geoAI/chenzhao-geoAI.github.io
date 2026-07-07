@@ -29,13 +29,13 @@ Education
 - **M.S.**, Zhejiang University, 2022
 - **B.S.**, China University of Geosciences, 2019
 
-Visiting Experience
+<!-- Visiting Experience
 ------
 - **Helmholtz Centre for Environmental Research**, Germany, 2024
 - **Southern University of Science and Technology**, China, 2024
 - **Moscow State University**, Russia, 2019
 - **Washington University in St. Louis**, USA, 2018
-- **The University of Sydney**, Australia, 2017
+- **The University of Sydney**, Australia, 2017 -->
 
 Selected Honors, Membership, and Services
 ------
@@ -50,8 +50,8 @@ Selected Honors, Membership, and Services
 - **Research Travel Grant**, HKUST, 2023 - 2024  
 - **Outstanding Graduates of Zhejiang University**, Zhejiang University, 2022
 - **Outstanding Student**, Zhejiang University, 2021
-- **Top Ten Outstanding Students of China University of Geosciences** (Top 1%), 2018  
-- **Journal Reviewer**: *Environmental Science and Technology*, since 2023
+<!-- - **Top Ten Outstanding Students of China University of Geosciences** (Top 1%), 2018   -->
+- **Journal Reviewer**: *Environmental Science and Technology*, *Geochimica et Cosmochimica Acta*
 - **Membership**: American Geophysical Union, European Association of Geochemistry
 
 Seminar
@@ -61,8 +61,8 @@ Seminar
 
 
 
-*“Live simply, love generously, care deeply, speak kindly, leave the rest to God.”  
-― Ronald Reagan*
+<!-- *“Live simply, love generously, care deeply, speak kindly, leave the rest to God.”  
+― Ronald Reagan* -->
 
 *“If the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery.”
 ― Enrico Fermi*

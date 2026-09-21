@@ -25,9 +25,13 @@ I am always open to potential collaborations, please feel free to contact me at 
 
 <!-- BTW, My Myers-Briggs Type Indicator (MBTI) is ESTJ, which basically stands for "Efficiently Stuck To the Job." Yep, workaholic! -->
 
+Academic Appointment
+------
+- **Schmidt AI in Science Fellow**, University of Michigan, 2026 - Present
+
 Education
 ------
-- **Ph.D.**, The Hong Kong University of Science and Technology, 2022 - 2026
+- **Ph.D.**, The Hong Kong University of Science and Technology, 2026
 - **M.S.**, Zhejiang University, 2022
 - **B.S.**, China University of Geosciences, 2019
 

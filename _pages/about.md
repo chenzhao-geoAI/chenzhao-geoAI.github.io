@@ -21,7 +21,7 @@ Prior to this, I received my Ph.D. degree at the [DREAM]([https://hkustdinghe.gi
   <li>Applying data science toolbox to address environmental and water quality issues</li>
 </ul>
 
-I am always open to potential collaborations, please feel free to contact me at czhaobk@connect.ust.hk :)
+I am always open to potential collaborations, please feel free to contact me at zhche@umich.edu :) I am also looking for a tenure-track assistant professor position in North America or Asia!
 
 <!-- BTW, My Myers-Briggs Type Indicator (MBTI) is ESTJ, which basically stands for "Efficiently Stuck To the Job." Yep, workaholic! -->
 
